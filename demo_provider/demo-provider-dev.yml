@@ -1,5 +1,3 @@
-server:
-  port: 8090
 #eureka集群搭建
 eureka:
   client:
