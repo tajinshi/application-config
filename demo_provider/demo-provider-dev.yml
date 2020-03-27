@@ -1,8 +1,5 @@
 server:
   port: 8090
-spring:
-  application:
-    name: demo-provider
 #eureka集群搭建
 eureka:
   client:
